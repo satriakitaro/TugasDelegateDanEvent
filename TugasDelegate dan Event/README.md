@@ -1,4 +1,4 @@
 # TugasDelegateDanEvent #
-- Tugas Pertemuan 8 Mata Kuliah Pemrograman lanjut
-- Nama: Siti Wahyuni
-- Nim: 21.11.4068
+- Tugas Pemograman Lanjur Pertemuan 8
+- Nama: Muhammad Satria Chusnun Kitaro
+- Nim: 21.11.4047
